@@ -1,3 +1,0 @@
-git rm data/Fertilizers
-git commit -m "Remove empty Fertilizers file"
-git push
