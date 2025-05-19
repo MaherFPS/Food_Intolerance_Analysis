@@ -1,1 +1,3 @@
 git mv data/dataset.fertilizers.csv data/raw/dataset.fertilizers.csv
+git commit data/dataset.fertilizers.csv data/raw/dataset.fertilizers.csv
+git puch data/dataset.fertilizers.csv data/raw/dataset.fertilizers.csv
